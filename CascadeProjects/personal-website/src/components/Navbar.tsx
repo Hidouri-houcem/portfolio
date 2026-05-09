@@ -59,7 +59,7 @@ const Navbar = () => {
           {/* Social Links */}
           <div className="hidden md:flex items-center space-x-4">
             <motion.a
-              href="https://github.com"
+              href="https://github.com/Hidouri-houcem"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-neon-cyan transition-colors"
@@ -69,7 +69,7 @@ const Navbar = () => {
               <FaGithub size={20} />
             </motion.a>
             <motion.a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/hidouri-houcem"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-neon-cyan transition-colors"
@@ -78,7 +78,7 @@ const Navbar = () => {
               <FaLinkedin size={20} />
             </motion.a>
             <motion.a
-              href="mailto:houssem.hidouri@example.com"
+              href="mailto:houssem.057hidouri@gmail.com"
               className="text-gray-400 hover:text-neon-cyan transition-colors"
               whileHover={{ scale: 1.2 }}
             >
