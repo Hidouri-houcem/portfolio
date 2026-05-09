@@ -39,7 +39,7 @@ const Contact = () => {
         headers: {
           'Content-Type': 'application/json',
         },
-        timeout: 10000, // 10 second timeout
+        timeout: 30000, // 10 second timeout
       })
 
       if (response.data.success) {
